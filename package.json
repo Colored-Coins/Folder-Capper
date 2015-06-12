@@ -1,12 +1,13 @@
 {
   "name": "folder-capper",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Managing a folder size under a certain maximum size",
   "main": "index.js",
   "dependencies": {
     "async": "^1.2.1",
     "empty-spaces": "^0.1.4",
-    "fs-sort": "0.1.0"
+    "fs-sort": "0.1.0",
+    "setinterval-plus": "^1.0.2"
   },
   "directories": {
     "test": "test"
