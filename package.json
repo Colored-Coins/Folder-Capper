@@ -1,0 +1,39 @@
+{
+  "name": "folder-capper",
+  "version": "0.1.0",
+  "description": "Managing a folder size under a certain maximum size",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.2.1",
+    "empty-spaces": "^0.1.4",
+    "fs-sort": "0.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "coverage": "istanbul cover _mocha -- -R spec",
+    "coveralls": "cat ./coverage/lcov.info | coveralls"
+  },
+  "author": "thehobbit85",
+  "license": "MIT",
+  "keywords": [
+    "file system",
+    "filesystem",
+    "folder",
+    "size",
+    "file managment",
+    "folder managment",
+    "folder size managment",
+    "folder size capper",
+    "capper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Colored-Coins/Folder-Capper.git"
+  },
+  "devDependencies": {
+    "jsonfile": "^2.0.1"
+  }
+}

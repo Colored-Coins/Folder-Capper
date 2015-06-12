@@ -1,0 +1,42 @@
+[
+  {
+    "folderToCap": "/data",
+    "capSize": 50,
+    "retryTime": 10000
+  },
+  {
+    "folderToCap": "/data",
+    "capSize": "10%",
+    "retryTime": 0
+  },
+  {
+    "folderToCap": "/data",
+    "capSize": 10,
+    "retryTime": 10000
+  },
+  {
+    "folderToCap": "/data",
+    "capSize": "0.01%",
+    "retryTime": 10000
+  },
+  {
+    "folderToCap": "/data",
+    "capSize": 50,
+    "retryTime": 10000
+  },
+  {
+    "folderToCap": "/data",
+    "capSize": "10%",
+    "retryTime": 0
+  },
+  {
+    "folderToCap": "/data",
+    "capSize": 10,
+    "retryTime": 10000
+  },
+  {
+    "folderToCap": "/data",
+    "capSize": "0.01%",
+    "retryTime": 10000
+  }
+]
