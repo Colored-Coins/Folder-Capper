@@ -1,6 +1,6 @@
 {
   "name": "folder-capper",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Managing a folder size under a certain maximum size",
   "main": "index.js",
   "dependencies": {
